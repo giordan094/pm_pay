@@ -1,0 +1,21 @@
+{
+  "numeroRecTotale": 10,
+  "numeroRec": 10,
+  "items": [
+    {
+      "codice": "1",
+      "descrizione": "Conto Test Concorso",
+      "iban": "IT20V9969063413178797705395"
+    },
+    {
+      "codice": "2",
+      "descrizione": "Conto Test 2",
+      "iban": "IT20V9969063413178797705334"
+    },
+    {
+      "codice": "3",
+      "descrizione": "Conto Test 3",
+      "iban": "IT20V9969063413178797705334"
+    }
+  ]
+}
